@@ -1,21 +1,13 @@
 {
-  "name": "angular-electron",
-  "version": "8.0.5",
-  "description": "Angular 10 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "name": "bigbang",
+  "version": "8.0.0",
+  "description": "A calculator for worldbuilders.",
+  "homepage": "https://github.com/performa-classic/BigBang",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "M. Sara Friis",
+    "email": "performa.classic@disroot.org"
   },
   "keywords": [
-    "angular",
-    "angular 10",
-    "electron",
-    "nodejs",
-    "typescript",
-    "spectron",
-    "eslint",
-    "sass",
     "windows",
     "mac",
     "linux"
